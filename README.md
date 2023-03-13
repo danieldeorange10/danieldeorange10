@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" width="400" height="400" src=https://giphy.com/gifs/movie-film-vintage-26DN1igUVjemGqV0c>
+<img align="right" width="400" height="400" src="https://giphy.com/gifs/movie-film-vintage-26DN1igUVjemGqV0c">
  
 # Welcome!
  
