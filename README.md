@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align="right" width="400" height="400" src="https://link.springer.com/article/10.1007/s00146-021-01348-0/figures/7">
+<img align="right" width="400" height="400" src="https://www.medialab-matadero.es/sites/default/files/import/ftp_medialab/0/612/612_43.jpg">
  
 # Welcome!
  
