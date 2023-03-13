@@ -22,4 +22,4 @@ Incentivamos a comunidade dos criadores de conteúdo gratuito para quem quer apr
  
 - Tudo aqui é aberto, pode usar e abusar o/
 
-
+https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
