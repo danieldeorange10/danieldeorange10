@@ -3,7 +3,6 @@ Fullstack Developer
 
 Co-founder do \[Guia de Bolso\] Pensamento Computacional, entusiasta e praticante da aprendizagem por projetos, desenho soluções de formação de desenvolvedores web (JavaScript, React, Node.js, Mongo DB, Mysql, C++ e Python)
 
-* 🧠  I'm learning leaflet
 
 ### Skills
 
